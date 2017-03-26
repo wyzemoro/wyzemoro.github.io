@@ -12,8 +12,8 @@ title_separator          : "-"
 name                     : "Wyzemoro"
 description              : "Wyzemoro Project."
 url                      : "https://wyzemoro.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+baseurl                  : "/"
+repository               : "wyzemoro/wyzemoro.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -77,30 +77,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "wyzemoro"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  bio              : "A #Bangsamoro, Activist, Blogger, Halal Advocate, Information Security and Privacy Enthusiast."
+  location         : "Bangsamoro"
+  email            : "jun@wyzemoro.com"
+  uri              : "https://blog.wyzemoro.com"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/wyzemoro"
   foursquare       :
-  github           :
+  github           : "https://github.com/wyzemoro/"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/junmacarambon/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "https://twitter.com/wyzemoro"
   vine             :
   weibo            :
   xing             :
